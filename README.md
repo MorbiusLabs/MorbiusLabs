@@ -1,8 +1,7 @@
 
 <div align="center">
 
-<img src="./MorbiusLabs_GitHub_Header_1280x360.png" alt="Morbius Labs — AI, Crypto & Research" width="100%" />
-
+<img src="./assets/morbius-labs-header.jpg" alt="Morbius Labs" width="100%">
 # MORBIUS LABS
 
 ### AI · CRYPTO · RESEARCH
