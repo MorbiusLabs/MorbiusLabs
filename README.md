@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./assets/morbius-labs-header.jpg" alt="Morbius Labs" width="100%">
+<img src="./morbius-labs-header.jpg" alt="Morbius Labs" width="100%" />
 # MORBIUS LABS
 
 ### AI · CRYPTO · RESEARCH
