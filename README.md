@@ -1,32 +1,55 @@
+
 <div align="center">
-  <img src="assets/morbius-labs-header.png" alt="Morbius Labs — AI, Crypto & Research" width="100%" />
 
-Morbius Labs
+<img src="./MorbiusLabs_GitHub_Header_1280x360.png" alt="Morbius Labs — AI, Crypto & Research" width="100%" />
 
-AI · Crypto · Research
+# MORBIUS LABS
+
+### AI · CRYPTO · RESEARCH
 
 Exploring intelligent systems, blockchain technology, and developer infrastructure.
 
-X / Twitter · GitHub
+[𝕏 Twitter](https://x.com/morbiusLabs) · [GitHub](https://github.com/morbiusLabs)
 
 </div>
 
-────────
+---
 
-About
+## About
 
-Morbius Labs is focused on the intersection of artificial intelligence and crypto. This profile will host research notes, experiments, and open-source projects as they become available.
+Morbius Labs explores the intersection of artificial intelligence, blockchain technology, and decentralized infrastructure.
 
-Focus areas
+Our interests span applied research, intelligent automation, on-chain systems, and developer tooling.
 
-• AI & automation: intelligent workflows, agents, and applied research.
-• Blockchain: on-chain data, protocols, and crypto infrastructure.
-• Developer tools: reproducible experiments and useful utilities.
+## Focus Areas
 
-Projects
+**Artificial Intelligence**
+- AI agents and automation
+- Intelligent workflows
+- Applied AI research
 
-Public projects will be listed here when published. No placeholder repositories or fabricated activity statistics.
+**Blockchain & Crypto**
+- On-chain analytics
+- Decentralized protocols
+- Blockchain infrastructure
 
-Contact
+**Engineering**
+- Developer tools
+- Reproducible experiments
+- Open-source research
 
-Follow updates on X (@morbiusLabs).
+## Projects
+
+Research, experiments, and open-source projects will be published here as they become available.
+
+## Connect
+
+**X:** [@morbiusLabs](https://x.com/morbiusLabs)
+
+**GitHub:** [morbiusLabs](https://github.com/morbiusLabs)
+
+---
+
+<div align="center">
+  <sub>MORBIUS LABS · AI × CRYPTO × RESEARCH</sub>
+</div>
