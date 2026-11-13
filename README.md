@@ -39,7 +39,8 @@ Our interests span applied research, intelligent automation, on-chain systems, a
 
 ## Projects
 
-Research, experiments, and open-source projects will be published here as they become available.
+**[agent-payment-log](https://github.com/MorbiusLabs/agent-payment-log)**  
+Spending rules and a tamper-evident decision log for AI agents that make payments. Caps, recipient allowlists and human sign-off before money moves, plus a hash-chained log anyone can verify. Python, no dependencies, MIT.
 
 ## Connect
 
