@@ -1,55 +1,43 @@
-
 <div align="center">
 
 <img src="./morbius-labs-header.jpg" alt="Morbius Labs" width="100%" />
+
 # MORBIUS LABS
 
-### AI · CRYPTO · RESEARCH
+### The AI × money news desk that shows its sources.
 
-Exploring intelligent systems, blockchain technology, and developer infrastructure.
+Fed speeches, filings, onchain data. What's real, what's noise.
 
-[𝕏 Twitter](https://x.com/morbiusLabs) · [GitHub](https://github.com/morbiusLabs)
+[𝕏 @MorbiusLabs](https://x.com/MorbiusLabs) · [receipts](https://github.com/MorbiusLabs/receipts) · [chain-pulse](https://morbiuslabs.github.io/chain-pulse/)
 
 </div>
 
 ---
 
-## About
+## What we do
 
-Morbius Labs explores the intersection of artificial intelligence, blockchain technology, and decentralized infrastructure.
-
-Our interests span applied research, intelligent automation, on-chain systems, and developer tooling.
-
-## Focus Areas
-
-**Artificial Intelligence**
-- AI agents and automation
-- Intelligent workflows
-- Applied AI research
-
-**Blockchain & Crypto**
-- On-chain analytics
-- Decentralized protocols
-- Blockchain infrastructure
-
-**Engineering**
-- Developer tools
-- Reproducible experiments
-- Open-source research
+We cover the stories where AI and money meet: banks, crypto, stablecoins, payments, and the AI systems moving into all of them. Every post is checked against a primary source, and every check is public.
 
 ## Projects
 
-**[agent-payment-log](https://github.com/MorbiusLabs/agent-payment-log)**  
-Spending rules and a tamper-evident decision log for AI agents that make payments. Caps, recipient allowlists and human sign-off before money moves, plus a hash-chained log anyone can verify. Python, no dependencies, MIT.
+**[receipts](https://github.com/MorbiusLabs/receipts)**
+Every claim we post, with its verdict and primary source. Numbers we compute ship with the script that recomputes them.
 
-## Connect
+**[chain-pulse](https://github.com/MorbiusLabs/chain-pulse)** · [live](https://morbiuslabs.github.io/chain-pulse/)
+Is your bank down? Check if the chains are. Live block production for Bitcoin, Ethereum, Solana and Base from public nodes.
 
-**X:** [@morbiusLabs](https://x.com/morbiusLabs)
+**[agent-payment-log](https://github.com/MorbiusLabs/agent-payment-log)** · [demo](https://morbiuslabs.github.io/agent-payment-log/)
+Spending rules and a tamper-evident decision log for AI agents that make payments. Caps, allowlists and human sign-off before money moves, plus a hash-chained log anyone can verify.
 
-**GitHub:** [morbiusLabs](https://github.com/morbiusLabs)
+## How we work
+
+1. Primary sources first.
+2. Quotes are exact, paraphrases are marked.
+3. Numbers ship with the script.
+4. Corrections are logged, not deleted.
 
 ---
 
 <div align="center">
-  <sub>MORBIUS LABS · AI × CRYPTO × RESEARCH</sub>
+  <sub>MORBIUS LABS · AI × MONEY · SOURCES ON THE RECORD</sub>
 </div>
