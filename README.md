@@ -8,7 +8,7 @@
 
 Fed speeches, filings, onchain data. What's real, what's noise.
 
-[𝕏 @MorbiusLabs](https://x.com/MorbiusLabs) · [receipts](https://github.com/MorbiusLabs/receipts) · [chain-pulse](https://morbiuslabs.github.io/chain-pulse/)
+**[morbiuslabs.org](https://morbiuslabs.org)** · [𝕏 @MorbiusLabs](https://x.com/MorbiusLabs) · [receipts](https://github.com/MorbiusLabs/receipts) · [chain-pulse](https://pulse.morbiuslabs.org)
 
 </div>
 
@@ -20,11 +20,17 @@ We cover the stories where AI and money meet: banks, crypto, stablecoins, paymen
 
 ## Projects
 
+**[morbiuslabs.org](https://morbiuslabs.org)**
+The news desk itself: every check with its verdicts, one page per claim, the official-source wire, live market data and an open API.
+
 **[receipts](https://github.com/MorbiusLabs/receipts)**
 Every claim we post, with its verdict and primary source. Numbers we compute ship with the script that recomputes them.
 
-**[chain-pulse](https://github.com/MorbiusLabs/chain-pulse)** · [live](https://morbiuslabs.github.io/chain-pulse/)
-Is your bank down? Check if the chains are. Live block production for Bitcoin, Ethereum, Solana and Base from public nodes.
+**[chain-pulse](https://github.com/MorbiusLabs/chain-pulse)** · [live](https://pulse.morbiuslabs.org)
+Is your bank down? Check if the chains are. Live blocks, throughput, fees and prices for nine chains from public nodes, with 24 hours of recorded history.
+
+**[wire](https://github.com/MorbiusLabs/wire)** · [live](https://morbiuslabs.org/wire/)
+Official releases from central banks, regulators and AI labs, plus daily market series, refreshed every 15 minutes by GitHub Actions.
 
 **[agent-payment-log](https://github.com/MorbiusLabs/agent-payment-log)** · [demo](https://morbiuslabs.github.io/agent-payment-log/)
 Spending rules and a tamper-evident decision log for AI agents that make payments. Caps, allowlists and human sign-off before money moves, plus a hash-chained log anyone can verify.
