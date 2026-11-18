@@ -21,7 +21,7 @@ We cover the stories where AI and money meet: banks, crypto, stablecoins, paymen
 ## Projects
 
 **[morbiuslabs.org](https://morbiuslabs.org)**
-The news desk itself: every check with its verdicts, one page per claim, the official-source wire, live market data and an open API.
+The news desk itself: every check with its verdicts, interactive charts, running stories with timelines, one page per claim, the official-source wire, live market data and an open API.
 
 **[receipts](https://github.com/MorbiusLabs/receipts)**
 Every claim we post, with its verdict and primary source. Numbers we compute ship with the script that recomputes them.
