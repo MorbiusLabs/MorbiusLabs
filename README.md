@@ -8,7 +8,7 @@
 
 Fed speeches, filings, onchain data. What's real, what's noise.
 
-**[morbiuslabs.org](https://morbiuslabs.org)** · [𝕏 @MorbiusLabs](https://x.com/MorbiusLabs) · [receipts](https://github.com/MorbiusLabs/receipts) · [chain-pulse](https://pulse.morbiuslabs.org)
+**[morbiuslabs.org](https://morbiuslabs.org)** · [𝕏 @morbius_labs](https://x.com/morbius_labs) · [receipts](https://github.com/MorbiusLabs/receipts) · [chain-pulse](https://pulse.morbiuslabs.org)
 
 </div>
 
